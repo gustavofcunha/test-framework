@@ -1,4 +1,4 @@
-from testCase import TestCase
+from models.testCase import TestCase
 
 class TestStub(TestCase):
 
